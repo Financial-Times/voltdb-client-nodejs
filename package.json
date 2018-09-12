@@ -10,11 +10,12 @@
         "type": "git",
         "url": "https://github.com/VoltDB/voltdb-client-nodejs.git"
     },
-
     "dependencies": {
         "bignumber": "latest",
         "ctype": "latest",
-        "cli": "latest",
+        "cli": "latest"
+    },
+    "devDependencies": {
         "nodeunit": "latest"
     }
 }
