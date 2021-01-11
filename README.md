@@ -1,6 +1,10 @@
 VoltDB NodeJS Wire Protocol Driver 1.0
 ========================================
 
+# DEPRECATED
+
+This is a very buggy client and to be avoided. You should use the [new HTTP endpoint](https://github.com/Financial-Times/ip-voltdb-api).
+
 Requirements
 ============
 
